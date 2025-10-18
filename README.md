@@ -1,6 +1,6 @@
 ## Forward Proxy vs Reverse Proxy Demo
 
-This project demonstrates the difference between forward and reverse proxies using AWS EC2 instances.
+This project demonstrates the difference between forward and reverse proxies using AWS EC2 instances
 
 ## Architecture
 
