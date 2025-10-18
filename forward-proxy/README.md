@@ -12,7 +12,7 @@ A forward proxy sits between clients and the internet:
 
 ## Manual Setup Instructions
 
-### Step 1: SSH into your EC2 instance
+## Step 1: SSH into your EC2 instance
 ```bash
 ssh -i your-key.pem ubuntu@<FORWARD_PROXY_IP>
 ```
