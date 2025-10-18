@@ -1,4 +1,4 @@
-# Forward Proxy Setup (Squid)
+# Forward Proxy Setup (Squid).
 
 This sets up a Squid forward proxy server that clients can use to route their internet traffic.
 
