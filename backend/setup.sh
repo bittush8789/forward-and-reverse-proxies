@@ -4,7 +4,7 @@
 sudo apt-get update
 sudo apt-get install -y python3-pip python3-venv
 
-# Create and activate virtual environment (in current directory where app.py is)
+# Create and activate virtual environment (in current directory where app.py is).
 python3 -m venv venv
 source venv/bin/activate
 
